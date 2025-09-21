@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying Computer Science at Wilfrid Laurier University  
 🌱 I’m passionate about full-stack web development and backend systems  
-💼 Seeking Summer 2025 software internships  
+💼 Seeking Winter 2026 software internships  
 📫 Reach me at: bgeminiuc67@gmail.com
 
 ---
