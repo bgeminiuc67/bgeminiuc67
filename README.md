@@ -40,7 +40,7 @@
 
 ## 🚀 Featured Projects
 
-### [LaurierConnect](https://github.com/bgeminiuc67/LaurierConnect)
+### [LaurierConnect](https://github.com/bgeminiuc67/LaurierConnect-main)
 Full-stack social platform for Laurier students with Google OAuth 2.0, Flask REST API, React frontend, and MongoDB. Features profile creation, academic filters, and real-time connection updates.
 
 ### [Lethal Markets](https://github.com/bgeminiuc67/lethal-markets)
@@ -57,7 +57,7 @@ AI-powered financial intelligence platform integrating Claude API for real-time 
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications          
 
 ![IBM](https://img.shields.io/badge/IBM-AI%20Fundamentals-052FAD?style=flat&logo=ibm&logoColor=white)
 
