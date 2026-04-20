@@ -2,7 +2,7 @@
 
 🎓 Computer Science @ Wilfrid Laurier University (Graduating Apr 2027)  
 💼 Currently interning at **SanteSuite** - Software Engineer  
-🔍 Seeking **Summer 2026** software engineering internships  
+🔍 Seeking **Fall 2026** software engineering internships  
 📫 bgeminiuc67@gmail.com
 
 ---
